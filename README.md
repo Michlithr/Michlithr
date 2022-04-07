@@ -1,7 +1,14 @@
-- 👋 Hi, I’m Michał Litwa. I'm student of Information Systems Engineering (MA) and I'm working as a Junior Fullstack Developer in Sprint S.A. I am looking for new experiences in
+- 👋 Hi, I’m Michał Litwa. I'm working as a **Software Engineer** in Sprint S.A. I am looking for new experiences, especially in
 international companies.
-- 👀 I’m interested in frontend (web, mobile) and backend development. I love implementing new components and facing new problems. 
-- 🌱 I’m currently learning React.js and working in VueJS
+- 📚 Post-graduated with two titles: 
+  - **Master of Science in Informatics** at Gdańsk University of Technology.</br>
+    **Specialization:** Information Systems Engineering</br>
+    **Thesis:** Analysis of the automated testing in agile software projects
+  - **Bachelor of Science in Informatics** at Gdańsk University of Technology.</br>
+    **Specialization:** Software Engineering, Geoinformatics Systems</br>
+    **Thesis:** Using the block-chain technology in order to better audition the process of editing text documents by multiple users
+- 👀  Interested in broadening my skillset in **distributed software architecture, mobile and web-based technologies**, and applying skills learned during academic development.
+- 🌱 Currently working in **VueJS** and **TypeScript**
 - 📫 You can reach me writing on my email - michlithr@gmail.com
 
 <!---
