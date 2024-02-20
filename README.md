@@ -8,7 +8,7 @@ international companies.
     **Specialization:** Software Engineering, Geoinformatics Systems</br>
     **Thesis:** Using the block-chain technology in order to better audition the process of editing text documents by multiple users
 - 👀  Interested in broadening my skillset in **distributed software architecture, mobile and web-based technologies**, and applying skills learned during academic development.
-- 🌱 Currently working in **VueJS** and **TypeScript/JavaScript**
+- 🌱 Currently working in **VueJS, React** and **TypeScript/JavaScript**
 - 📫 You can reach me writing on my email - michlithr@gmail.com
 
 <!---
